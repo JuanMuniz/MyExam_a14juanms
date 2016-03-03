@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Exam &lt;a14juanms></string>
+    <string name="namesur">Surname, name</string>
+    <string name="module"> Module of exam</string>
+    <string name="introduce">Introduce</string>
+    <string name="start">Start exam</string>
+    <string name="sus">Sus</string>
+    <string name="apr">Apr</string>
+    <string name="not">Not</string>
+    <string name="sob">Sob</string>
+    <string name="score">Score</string>
+    <string name="noraboa">NORABOA </string>
+    <string name="acabaches">Acabaches o examen de </string>
+    <string name="nota">A nota do examen é </string>
+    <string name="aprobado">Aprobado</string>
+    <string name="suspenso">Suspenso</string>
+    <string name="notable">Notable</string>
+    <string name="sobresaliente">Sobresaliente</string>
+    <string name="nada">Nada seleccionado</string>
+    <string name="faltan">FALTAN DATOS</string>
+    <string name="garda">GARDA OS DATOS ANTES</string>
+</resources>
